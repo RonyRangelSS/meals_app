@@ -1,16 +1,19 @@
-# meals_app
+# 🍲 Flutter Meal App
 
-A new Flutter project.
+A mobile application built with Flutter that offers a collection of pre-defined meals organized by food categories. Users can browse meals, filter by category, and favorite their preferred ones for quick access.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- 🔍 **Browse Meals**: View a curated list of meals with ingredients and preparation instructions.
+- 🍽️ **Meal Categories**: Filter meals by categories like Desserts, Pasta, Meat, Vegan, and more.
+- ⭐ **Favorite Meals**: Mark your favorite meals and access them easily through a dedicated section.
+- 🧭 **User-friendly Interface**: Smooth navigation with a clean and intuitive UI.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter** – Main framework for cross-platform mobile development.
+- **Dart** – Programming language used with Flutter.
+- **Provider** – Lightweight and efficient state management.
+- **Custom Widgets** – Modular and reusable UI components.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
